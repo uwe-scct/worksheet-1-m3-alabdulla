@@ -44,6 +44,7 @@ This version computes a different custom sum and prints the result.
 ```
 Result = 7
 ```
+<img width="1281" height="176" alt="image" src="https://github.com/user-attachments/assets/55f60d2c-8af7-4611-9130-6f8f9a12f98e" />
 
 ---
 
@@ -71,6 +72,7 @@ xor eax, eax
 ```
 Array sum = 5050
 ```
+<img width="1286" height="161" alt="image" src="https://github.com/user-attachments/assets/e8110428-e786-4c4a-b508-863c66a59f74" />
 
 ---
 
@@ -98,6 +100,7 @@ mov esi, [ebp-4]   ; load count each iteration
 Welcome, ali
 ... (51 times)
 ```
+<img width="1282" height="909" alt="image" src="https://github.com/user-attachments/assets/3929e2e0-8386-40be-b370-87f20fa7d2b5" />
 
 
 ---
@@ -111,6 +114,7 @@ Reads a low/high index, validates, and prints the sum.
 ```
 Range sum = 151
 ```
+<img width="1297" height="205" alt="image" src="https://github.com/user-attachments/assets/fbc08e5a-43c5-4fd7-83f3-c07f628b552c" />
 
 ---
 
@@ -147,6 +151,7 @@ task2_name (51) lines: (grep shows 50 because of buffer, actual lines = 51)
 Range sum = 151
 ```
 
+<img width="1292" height="758" alt="image" src="https://github.com/user-attachments/assets/96503cc6-d7f3-4715-89ed-265b6f8546ad" />
 
 
 ---
