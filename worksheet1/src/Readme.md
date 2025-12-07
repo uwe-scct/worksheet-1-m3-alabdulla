@@ -30,6 +30,7 @@ mov ebx, 1
 ```
 Sum = 20
 ```
+<img width="1297" height="245" alt="image" src="https://github.com/user-attachments/assets/ec35d850-3e45-47e3-a38b-9012fc35a068" />
 
 
 ---
@@ -174,6 +175,7 @@ make clean
 
 ```bash
 ./src/driver_cli task1
+./src/driver_cli task1.2
 ./src/driver_cli task2_name
 ./src/driver_cli task2_range
 ```
